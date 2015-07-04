@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "JiajiaGuo",
-    "repositoryName": "jiajiaguo.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"JiajiaGuo","repositoryName":"jiajiaguo.github.io","branch":"master"},"site":{"title":"JiajiaGu","description":"JiajiaGu","url":"https://JiajiaGuo.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//JiajiaGuo.github.io/themes/Casper"}}

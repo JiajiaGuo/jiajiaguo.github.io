@@ -4,6 +4,9 @@
     "repositoryName": "jiajiaguo.github.io",
     "branch": "master"
   },
+  "site":{"title":"佳佳果",
+    "description":"淡"
+  },
   "theme": {
     "name": "Casper"
   }

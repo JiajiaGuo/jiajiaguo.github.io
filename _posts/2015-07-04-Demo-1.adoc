@@ -1,4 +1,4 @@
 = Demo 1
 :hp-tags: 佳佳,测试,Android
 
-Welcome, you are in hubpress.*中文。*
+Welcome, you are in hubpress.*中文*
